@@ -39,7 +39,9 @@
 	
 	
 %>
-
+	<form method="post" action="memo01.html">
+		<input type="submit" value="작성"></input>
+	</form>
 
 </body>
 </html>

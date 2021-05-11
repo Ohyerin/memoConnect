@@ -10,7 +10,7 @@
 </head>
 <body>
 <%
-	
+	response.sendRedirect("memo_list.jsp");
 	request.setCharacterEncoding("UTF-8");
 	String memo = request.getParameter("memo");
 
